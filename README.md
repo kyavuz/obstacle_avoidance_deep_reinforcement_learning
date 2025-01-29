@@ -56,7 +56,9 @@ rostopic list
   ```
 
 ## Dataset
-The dataset is collected using Gazebo simulations with the TurtleBot3 robot. It contains synchronized RGB and depth images in the following structure:
+The dataset is collected using Gazebo simulations with the TurtleBot3 robot, it is accessible via this link : https://drive.google.com/drive/folders/14DY3Rn5S3UChUdwx6cFSivGxkHdIrnZA?usp=sharing
+
+It contains synchronized RGB and depth images in the following structure:
   ```sh
 datasets/
 │── turtlebot_rgb_images_static/    # 5000 RGB images (static obstacles)
