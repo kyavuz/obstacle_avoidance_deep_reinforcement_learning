@@ -1,0 +1,10 @@
+Episode 1/10, Total Reward: 2522.90, Loss: 0.0365
+Episode 2/10, Total Reward: 2471.31, Loss: 0.0843
+Episode 3/10, Total Reward: 2518.57, Loss: 0.0531
+Episode 4/10, Total Reward: 2496.28, Loss: 0.0242
+Episode 5/10, Total Reward: 2514.92, Loss: 0.0217
+Episode 6/10, Total Reward: 2486.74, Loss: 0.0343
+Episode 7/10, Total Reward: 2497.64, Loss: 0.0333
+Episode 8/10, Total Reward: 2478.89, Loss: 0.0580
+Episode 9/10, Total Reward: 2487.41, Loss: 0.0290
+Episode 10/10, Total Reward: 2482.43, Loss: 0.0552
