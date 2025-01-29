@@ -3,6 +3,10 @@ This repository contains the implementation of a Double Deep Q-Network (D3QN)-ba
 
 The study focuses on vision-based navigation using synchronized RGB and depth images instead of LIDAR. The dataset is collected in a simulated environment and used to train a reinforcement learning agent that can adapt to moving obstacles.
 
+The video of tests are aavailab on Youtube : 
+* https://youtu.be/jKPNvS30GlU
+* https://youtu.be/Ld1ud7LE3bA
+
 ## Table of Contents
 * Project Overview
 * Installation and Setup
